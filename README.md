@@ -45,5 +45,5 @@ pip install -r requirements.txt
 ```bash
 jupyter notebook
 ```
-This will fire up jupyter notebook in your browser, after this inside notebook, run Perceptron.ipynb cell by cell.
+This will fire up jupyter notebook in your browser, after this inside notebook directory, run Perceptron.ipynb cell by cell.
 
